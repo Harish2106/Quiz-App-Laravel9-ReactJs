@@ -61,7 +61,7 @@
 
                         <div class="button-box">
                                 <button type="submit" class="btn btn-primary">
-                                    {{ __('Login') }}
+                                    {{ __('Loggin') }}
                                 </button>
 
 
